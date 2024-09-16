@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bankcard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bankcard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cardid\ issuerbank\ bankaccount\ balanceamount
+comment1.target=Bankcard(int,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getclientname()
+comment3.params=
+comment3.target=java.lang.String\ getissuername()
+comment4.params=
+comment4.target=int\ getcardid()
+comment5.params=
+comment5.target=double\ getbalanceamount()
+comment6.params=
+comment6.target=java.lang.String\ getbankaccount()
+comment7.params=clientname
+comment7.target=void\ setclientname(java.lang.String)
+comment8.params=balanceamount
+comment8.target=void\ setbalanceamount(double)
+comment9.params=
+comment9.target=void\ Display()
+numComments=10
